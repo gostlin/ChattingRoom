@@ -11,4 +11,6 @@
 4. yarn run dev 启动客户端
 
    ![image](https://github.com/gostlin/ChattingRoom/blob/master/mdimage/chattingrom.jpg?raw=true)
+
+   ![image](https://github.com/gostlin/ChattingRoom/blob/master/mdimage/chattingrom2.jpg?raw=true)
    通过 url 的 username 设置用户的名字
